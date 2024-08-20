@@ -22,7 +22,7 @@
 - Created an email tracking system to monitor and identify recipients who opened the emails.
 
 ## Education
--  **Technician in Software Development:**
+-  **Associate Degree at Software Development:**
     - **Institution**: Universidad Argentina de la Empresa (UADE)
     - **Status**: All courses completed, pending two final exams for degree completion.
     - **Expected Graduation**: 2024
