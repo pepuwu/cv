@@ -14,7 +14,7 @@
 
 ## Experience
 
-### Andreani | Dec 2022 - Present
+### Andreani | Dec 2022 - Sep 2024
 
 - Developed and maintained a notification system that reached over 200,000 users daily.
 - Implemented an intuitive graphical interface for managing notification distribution.
