@@ -2,6 +2,9 @@
 **Software Engineer**  
 [GitHub](https://github.com/pepuwu) | [LinkedIn](https://www.linkedin.com/in/pedro-esteban/) | [pepobari@gmail.com](mailto:pepobari@gmail.com) | +54 9 2944 340983
 
+Click for a Spanish version:
+- [Español](readme-spanish.md)
+
 ## Experience
 
 ### Andreani | Dec 2022 - Sep 2024
