@@ -1,5 +1,5 @@
 # Pedro Esteban  
-**Ingeniero de Software**  
+**Técnico de Software**  
 [GitHub](https://github.com/pepuwu) | [LinkedIn](https://www.linkedin.com/in/pedro-esteban/) | [pepobari@gmail.com](mailto:pepobari@gmail.com) | +54 9 2944 340983  
 
 ## Experiencia  
