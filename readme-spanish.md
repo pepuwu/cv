@@ -19,11 +19,17 @@
 - **Arquitecturas**: Frontend, Backend, Full-Stack, POO, Programación Funcional  
 - **Áreas de Especialización**: Ingeniería de Software, DevOps, Ingeniería de Sistemas, Pruebas A/B  
 
-## Educación  
-- **Tecnicatura Universitaria en Desarrollo de Software**  
-  - **Institución**: Universidad Argentina de la Empresa (UADE)  
-  - **Estado**: Todas las materias regularizadas, pendientes dos finales para obtener el título.  
-  - **Graduación Estimada**: 2025  
+## Educación
+
+- **Licenciatura en Gestión de Tecnología de la Información**
+  - **Institución**: Universidad Argentina de la Empresa (UADE)
+  - **Estado**: En curso
+  - **Graduación Estimada**: Mediados de 2027
+
+- **Tecnicatura Universitaria en Desarrollo de Software**
+  - **Institución**: Universidad Argentina de la Empresa (UADE)
+  - **Estado**: Todas las materias regularizadas, pendiente un final para obtener el título
+  - **Graduación Estimada**: 2026
 
 ## Proyectos Personales  
 
