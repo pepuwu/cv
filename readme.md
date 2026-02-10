@@ -24,10 +24,17 @@ Click for a Spanish version:
 
 
 ## Education
--  **Associate Degree at Software Development:**
-    - **Institution**: Universidad Argentina de la Empresa (UADE)
-    - **Status**: All courses completed, pending two final exams for degree completion.
-    - **Expected Graduation**: 2025
+
+- **Bachelor’s Degree in Information Technology Management**
+  - **Institution**: Universidad Argentina de la Empresa (UADE)
+  - **Status**: In progress
+  - **Expected Graduation**: Mid 2027
+
+- **Associate Degree in Software Development**
+  - **Institution**: Universidad Argentina de la Empresa (UADE)
+  - **Status**: All courses completed, pending one final exam for degree completion
+  - **Expected Graduation**: 2026
+
 
 ## Personal Projects
 
