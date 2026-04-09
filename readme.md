@@ -1,47 +1,56 @@
-# Pedro Esteban  
-**Software Engineer**  
+# Pedro Esteban
+**Full-Stack Software Engineer**  
 [GitHub](https://github.com/pepuwu) | [LinkedIn](https://www.linkedin.com/in/pedro-esteban/) | [pepobari@gmail.com](mailto:pepobari@gmail.com) | +54 9 2944 340983
+
+---
 
 ## Experience
 
-### Andreani | Dec 2022 - Sep 2024
-- Developed and maintained a notification system, built with .NET 6, that reached over 200,000 users daily.
-- Implemented an intuitive, React JS-based graphical interface for managing notification distribution.
-- Designed and developed a .NET 8-based automated marketing system, successfully contacting up to 50,000 clients per campaign to boost engagement.
-- Developed an email tracking system with .NET and ReactJS, enabling monitoring and identification of recipients who opened emails.
+### Andreani — Full-Stack Developer | Dec 2022 – Sep 2024
+*Andreani is one of Argentina's largest logistics and courier companies.*
 
-## Skills
+- Built and maintained a .NET 6 notification system that delivered messages to **200,000+ users daily**, handling high-throughput message queuing and delivery reliability.
+- Developed a React-based dashboard for internal teams to configure and monitor notification campaigns in real time.
+- Designed and implemented an automated marketing platform in .NET 8 that executed campaigns reaching up to **50,000 clients per run**, integrating with internal CRM and email providers.
+- Built an email tracking system (open/click detection) using .NET and React, providing actionable analytics for marketing teams.
 
-- **Languages**: JavaScript, C#, Python, Java
-- **Frameworks and Libraries**: NestJS, React, Vue, Next.js, Redux, Asp.net, Spring
-- **Databases**: MongoDB, Redis, SqlServer, SQLite
-- **Technologies**: Microservices, Unit Testing, Git, HTML, CSS, SCSS, Docker, REST, Kafka, PowerBI
-- **Architectures**: Frontend, Backend, Full-Stack, JR, OOP, Functional Programming
-- **Areas of Expertise**: Software Engineering, DevOps, Systems Engineering, A/B Testing
-
-
-## Education
-
-- **Bachelor’s Degree in Information Technology Management**
-  - **Institution**: Universidad Argentina de la Empresa (UADE)
-  - **Status**: In progress
-  - **Expected Graduation**: Mid 2027
-
-- **Associate Degree in Software Development**
-  - **Institution**: Universidad Argentina de la Empresa (UADE)
-  - **Status**: All courses completed, pending one final exam for degree completion
-  - **Expected Graduation**: 2026
-
+---
 
 ## Personal Projects
 
-### [EduMate](https://github.com/pepuwu/eduMATE)
+### [whoplays.lol](https://whoplays.lol) — Fullstack Gaming Companion App
+**ASP.NET Core · React · TypeScript · MySQL · SignalR · Entity Framework · Railway**
 
-**Mobile Application focused on automating student attendance by scanning a QR code that validates both the device and location, along with other features.**
+Web app for gamers to find teammates across League of Legends, Valorant, CS:GO and Fortnite. Features real-time matchmaking via SignalR, server-based filtering, and a responsive React/TypeScript frontend. Fully deployed on Railway.
 
-> The application's front end is developed using React Native, while the back end is built with Spring.
+### [EduMate](https://github.com/pepuwu/eduMATE) — Student Attendance Automation
+**React Native · Spring Boot**
+
+Mobile app that automates student attendance by validating device identity and GPS location via QR scanning.
+
+---
+
+## Skills
+
+**Languages:** JavaScript / TypeScript, C#, Python, Java  
+**Frontend:** React, Next.js, Vue, React Native, Redux, HTML, CSS/SCSS  
+**Backend:** ASP.NET Core, NestJS, Spring Boot, REST APIs, Microservices  
+**Databases:** SQL Server, MySQL, MongoDB, Redis, SQLite  
+**DevOps & Tools:** Docker, Git, Kafka, PowerBI, Unit Testing, SignalR  
+
+---
+
+## Education
+
+**Bachelor's Degree in Information Technology Management** *(in progress, expected mid-2027)*  
+Universidad Argentina de la Empresa (UADE)
+
+**Associate Degree in Software Development** *(courses complete, final exam pending — 2026)*  
+Universidad Argentina de la Empresa (UADE)
+
+---
 
 ## Languages
 
-• **Spanish**: Native
-• **English**: Fluent
+- **Spanish** — Native  
+- **English** — Fluent

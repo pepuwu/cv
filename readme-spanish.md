@@ -1,45 +1,56 @@
-# Pedro Esteban  
-**Técnico de Software**  
-[GitHub](https://github.com/pepuwu) | [LinkedIn](https://www.linkedin.com/in/pedro-esteban/) | [pepobari@gmail.com](mailto:pepobari@gmail.com) | +54 9 2944 340983  
+# Pedro Esteban
+**Desarrollador Full-Stack**  
+[GitHub](https://github.com/pepuwu) | [LinkedIn](https://www.linkedin.com/in/pedro-esteban/) | [pepobari@gmail.com](mailto:pepobari@gmail.com) | +54 9 2944 340983
 
-## Experiencia  
+---
 
-### Andreani | Dic 2022 - Sep 2024  
-- Desarrollé y mantuve un sistema de notificaciones en .NET 6, alcanzando a más de 200,000 usuarios diariamente.  
-- Implementé una interfaz gráfica intuitiva basada en React JS para la gestión de la distribución de notificaciones.  
-- Diseñé y desarrollé un sistema automatizado de marketing en .NET 8, contactando hasta 50,000 clientes por campaña para aumentar la participación.  
-- Desarrollé un sistema de seguimiento de correos electrónicos con .NET y ReactJS, permitiendo monitorear y detectar destinatarios que abrieron los emails.  
+## Experiencia
 
-## Habilidades  
+### Andreani — Desarrollador Full-Stack | Dic 2022 – Sep 2024
+*Andreani es una de las empresas de logística y correo más grandes de Argentina.*
 
-- **Lenguajes**: JavaScript, C#, Python, Java  
-- **Frameworks y Librerías**: NestJS, React, Vue, Next.js, Redux, Asp.net, Spring  
-- **Bases de Datos**: MongoDB, Redis, SqlServer, SQLite  
-- **Tecnologías**: Microservicios, Pruebas Unitarias, Git, HTML, CSS, SCSS, Docker, REST, Kafka, PowerBI  
-- **Arquitecturas**: Frontend, Backend, Full-Stack, POO, Programación Funcional  
-- **Áreas de Especialización**: Ingeniería de Software, DevOps, Ingeniería de Sistemas, Pruebas A/B  
+- Desarrollé y mantuve un sistema de notificaciones en .NET 6 que alcanzaba a más de **200,000 usuarios diariamente**, con gestión de alta concurrencia y entrega confiable de mensajes.
+- Implementé un dashboard en React para que equipos internos configuren y monitoreen campañas de notificaciones en tiempo real.
+- Diseñé y desarrollé una plataforma automatizada de marketing en .NET 8 que ejecutaba campañas alcanzando hasta **50,000 clientes por envío**, integrándose con CRM internos y proveedores de email.
+- Construí un sistema de tracking de emails (detección de apertura y clics) con .NET y React, brindando analíticas accionables para los equipos de marketing.
+
+---
+
+## Proyectos Personales
+
+### [whoplays.lol](https://whoplays.lol) — App Fullstack para Gamers
+**ASP.NET Core · React · TypeScript · MySQL · SignalR · Entity Framework · Railway**
+
+Plataforma web para que gamers encuentren compañeros de juego en League of Legends, Valorant, CS:GO y Fortnite. Incluye matchmaking en tiempo real con SignalR, filtros por servidor y un frontend responsivo en React/TypeScript. Desplegada en Railway.
+
+### [EduMate](https://github.com/pepuwu/eduMATE) — Asistencia Estudiantil Automatizada
+**React Native · Spring Boot**
+
+App móvil que automatiza el control de asistencia validando identidad del dispositivo y ubicación GPS mediante escaneo de QR.
+
+---
+
+## Habilidades
+
+**Lenguajes:** JavaScript / TypeScript, C#, Python, Java  
+**Frontend:** React, Next.js, Vue, React Native, Redux, HTML, CSS/SCSS  
+**Backend:** ASP.NET Core, NestJS, Spring Boot, REST APIs, Microservicios  
+**Bases de Datos:** SQL Server, MySQL, MongoDB, Redis, SQLite  
+**DevOps y Herramientas:** Docker, Git, Kafka, PowerBI, Testing Unitario, SignalR  
+
+---
 
 ## Educación
 
-- **Licenciatura en Gestión de Tecnología de la Información**
-  - **Institución**: Universidad Argentina de la Empresa (UADE)
-  - **Estado**: En curso
-  - **Graduación Estimada**: Mediados de 2027
+**Licenciatura en Gestión de Tecnología de la Información** *(en curso, egreso estimado: mid-2027)*  
+Universidad Argentina de la Empresa (UADE)
 
-- **Tecnicatura Universitaria en Desarrollo de Software**
-  - **Institución**: Universidad Argentina de la Empresa (UADE)
-  - **Estado**: Todas las materias regularizadas, pendiente un final para obtener el título
-  - **Graduación Estimada**: 2026
+**Tecnicatura Universitaria en Desarrollo de Software** *(materias regularizadas, pendiente un final — 2026)*  
+Universidad Argentina de la Empresa (UADE)
 
-## Proyectos Personales  
+---
 
-### [EduMate](https://github.com/pepuwu/eduMATE)  
+## Idiomas
 
-**Aplicación móvil enfocada en la automatización del control de asistencia estudiantil mediante el escaneo de un código QR que valida tanto el dispositivo como la ubicación, junto con otras funciones.**  
-
-> El frontend de la aplicación está desarrollado en React Native, mientras que el backend está construido con Spring.  
-
-## Idiomas  
-
-• **Español**: Nativo  
-• **Inglés**: Fluido  
+- **Español** — Nativo  
+- **Inglés** — Fluido
